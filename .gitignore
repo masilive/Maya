@@ -1,0 +1,10 @@
+
+.vs/Maya/v17/
+
+.vs/Maya/DesignTimeBuild/
+
+obj/Debug/net6.0/
+
+obj/
+
+*.sln
