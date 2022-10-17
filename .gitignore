@@ -8,3 +8,7 @@ obj/Debug/net6.0/
 obj/
 
 *.sln
+
+*.vsidx
+
+.vs/
